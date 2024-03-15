@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of Canada?",
+    "answers": [
+      "Ottawa",
+      "Toronto",
+      "Vancouver",
+      "Montreal"
+    ],
+    "correctAnswer": "Ottawa"
+  },
+  {
+    "id": 2,
+    "question": "Who wrote 'The Great Gatsby'?",
+    "answers": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "correctAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "id": 3,
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswer": "Carbon Dioxide"
+  },
+  {
+    "id": 4,
+    "question": "What is the chemical symbol for iron?",
+    "answers": [
+      "Ir",
+      "Fe",
+      "Au",
+      "Ag"
+    ],
+    "correctAnswer": "Fe"
+  },
+  {
+    "id": 5,
+    "question": "Who discovered the theory of relativity?",
+    "answers": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Stephen Hawking"
+    ],
+    "correctAnswer": "Albert Einstein"
+  },
+  {
+    "id": 6,
+    "question": "What is the main component of the Earth's atmosphere?",
+    "answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
+    "correctAnswer": "Nitrogen"
+  },
+  {
+    "id": 7,
+    "question": "Who painted the famous 'Starry Night'?",
+    "answers": [
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Claude Monet"
+    ],
+    "correctAnswer": "Vincent van Gogh"
+  },
+  {
+    "id": 8,
+    "question": "What is the largest mammal on Earth?",
+    "answers": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "id": 9,
+    "question": "What is the capital of Australia?",
+    "answers": [
+      "Melbourne",
+      "Sydney",
+      "Canberra",
+      "Brisbane"
+    ],
+    "correctAnswer": "Canberra"
+  },
+  {
+    "id": 10,
+    "question": "Who is the author of 'Harry Potter' series?",
+    "answers": [
+      "J.R.R. Tolkien",
+      "J.K. Rowling",
+      "C.S. Lewis",
+      "Stephenie Meyer"
+    ],
+    "correctAnswer": "J.K. Rowling"
+  },
+  {
+    "id": 11,
+    "question": "What is the chemical symbol for potassium?",
+    "answers": [
+      "Pt",
+      "K",
+      "Po",
+      "Pb"
+    ],
+    "correctAnswer": "K"
+  },
+  {
+    "id": 12,
+    "question": "Who painted the Mona Lisa?",
+    "answers": [
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Michelangelo",
+      "Vincent van Gogh"
+    ],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "id": 13,
+    "question": "Which planet is known as the 'Red Planet'?",
+    "answers": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": 14,
+    "question": "What is the chemical formula for water?",
+    "answers": [
+      "H",
+      "HO",
+      "H2O",
+      "O2"
+    ],
+    "correctAnswer": "H2O"
+  },
+  {
+    "id": 15,
+    "question": "Who composed the 'Moonlight Sonata'?",
+    "answers": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
+    ],
+    "correctAnswer": "Ludwig van Beethoven"
+  },
+  {
+    "id": 16,
+    "question": "What is the capital of South Africa?",
+    "answers": [
+      "Johannesburg",
+      "Cape Town",
+      "Pretoria",
+      "Durban"
+    ],
+    "correctAnswer": "Pretoria"
+  },
+  {
+    "id": 17,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answers": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "id": 18,
+    "question": "What is the chemical symbol for silver?",
+    "answers": [
+      "Si",
+      "S",
+      "Ag",
+      "Au"
+    ],
+    "correctAnswer": "Ag"
+  },
+  {
+    "id": 19,
+    "question": "What is the largest ocean on Earth?",
+    "answers": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "id": 20,
+    "question": "Who discovered penicillin?",
+    "answers": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Edward Jenner"
+    ],
+    "correctAnswer": "Alexander Fleming"
+  }
+]
